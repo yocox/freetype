@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|C:\projects\blink-exp\cloudmosa\strawberry\external-libraries\freetype\src\freetype\2.6.3\freetype-2.6.3\builds\windows\visualc\|
